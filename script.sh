@@ -3,10 +3,10 @@
 set -e  # Exit on any error
 
 # --- Default Global variables ---
-DOMAIN="n8n.loctieuha.com" # Default domain
-EMAIL="admin@loctieuha.com"
+DOMAIN="" # Default domain
+EMAIL=""
 MODE="dev" # Default mode is 'dev'
-DB_PASSWORD="Lnmia02242018"
+DB_PASSWORD=""
 
 # --- Colors for output ---
 RED='\033[0;31m'
